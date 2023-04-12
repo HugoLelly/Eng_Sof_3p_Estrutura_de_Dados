@@ -1,2 +1,3 @@
-# Eng_Sof_3p_Estrutura_de_Dados
+# Engenharia de Software - 3º Perido - Estrutura de Dados
+
 Material das Aulas de Estrutura de Dados (3º Periodo)
